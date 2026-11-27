@@ -1,16 +1,16 @@
-# M490B · Input Pre Amps
+# M490B Input Module · Input Pre Amps
 
 Ward-Beck Systems M490B, 1978|11. Wiki page: [M490B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490B.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 0 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 2 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -62,6 +62,11 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [M490B.kicad_sym](KICAD/M490B.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
