@@ -1,6 +1,6 @@
 # M490B Input Module · Input Pre Amps
 
-Ward-Beck Systems M490B, 1978|11. Wiki page: [M490B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490B.html)
+Ward-Beck Systems M490B, 1978|11. Wiki page: [M490B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490B-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
